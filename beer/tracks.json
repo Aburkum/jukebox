@@ -1,0 +1,146 @@
+{
+  "catalogTitle": "2Minute Beer Review Jukebox",
+  "trackCount": 20,
+  "tracks": [
+    {
+      "code": "B001",
+      "title": "Amber Glow",
+      "durationMs": 234984,
+      "duration": "3:54",
+      "preview": "audio/B001.mp3"
+    },
+    {
+      "code": "B002",
+      "title": "Barrel Room Nocturne",
+      "durationMs": 259753,
+      "duration": "4:19",
+      "preview": "audio/B002.mp3"
+    },
+    {
+      "code": "B003",
+      "title": "Brass Barley",
+      "durationMs": 184704,
+      "duration": "3:04",
+      "preview": "audio/B003.mp3"
+    },
+    {
+      "code": "B004",
+      "title": "Closing Tab",
+      "durationMs": 330384,
+      "duration": "5:30",
+      "preview": "audio/B004.mp3"
+    },
+    {
+      "code": "B005",
+      "title": "Copper Kettle Swing",
+      "durationMs": 209352,
+      "duration": "3:29",
+      "preview": "audio/B005.mp3"
+    },
+    {
+      "code": "B006",
+      "title": "First Pour",
+      "durationMs": 209040,
+      "duration": "3:29",
+      "preview": "audio/B006.mp3"
+    },
+    {
+      "code": "B007",
+      "title": "Foam on the Rim",
+      "durationMs": 219432,
+      "duration": "3:39",
+      "preview": "audio/B007.mp3"
+    },
+    {
+      "code": "B008",
+      "title": "Hops After Dark",
+      "durationMs": 251664,
+      "duration": "4:11",
+      "preview": "audio/B008.mp3"
+    },
+    {
+      "code": "B009",
+      "title": "Last Call Bebop",
+      "durationMs": 307632,
+      "duration": "5:07",
+      "preview": "audio/B009.mp3"
+    },
+    {
+      "code": "B010",
+      "title": "Notes on the Palate",
+      "durationMs": 259441,
+      "duration": "4:19",
+      "preview": "audio/B010.mp3"
+    },
+    {
+      "code": "B011",
+      "title": "One for the Road",
+      "durationMs": 250632,
+      "duration": "4:10",
+      "preview": "audio/B011.mp3"
+    },
+    {
+      "code": "B012",
+      "title": "Opening Round",
+      "durationMs": 173664,
+      "duration": "2:53",
+      "preview": "audio/B012.mp3"
+    },
+    {
+      "code": "B013",
+      "title": "Patio Pour",
+      "durationMs": 241705,
+      "duration": "4:01",
+      "preview": "audio/B013.mp3"
+    },
+    {
+      "code": "B014",
+      "title": "Quick Sip Shuffle",
+      "durationMs": 189984,
+      "duration": "3:09",
+      "preview": "audio/B014.mp3"
+    },
+    {
+      "code": "B015",
+      "title": "Smoke Oak",
+      "durationMs": 273073,
+      "duration": "4:33",
+      "preview": "audio/B015.mp3"
+    },
+    {
+      "code": "B016",
+      "title": "The Tasting Flight",
+      "durationMs": 190512,
+      "duration": "3:10",
+      "preview": "audio/B016.mp3"
+    },
+    {
+      "code": "B017",
+      "title": "Two Minutes",
+      "durationMs": 189864,
+      "duration": "3:09",
+      "preview": "audio/B017.mp3"
+    },
+    {
+      "code": "B018",
+      "title": "Two Minutes (Second Pour)",
+      "durationMs": 190824,
+      "duration": "3:10",
+      "preview": "audio/B018.mp3"
+    },
+    {
+      "code": "B019",
+      "title": "Two-Minute Swing",
+      "durationMs": 169872,
+      "duration": "2:49",
+      "preview": "audio/B019.mp3"
+    },
+    {
+      "code": "B020",
+      "title": "Velvet Head",
+      "durationMs": 288624,
+      "duration": "4:48",
+      "preview": "audio/B020.mp3"
+    }
+  ]
+}
