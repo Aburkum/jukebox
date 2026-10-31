@@ -1,0 +1,139 @@
+{
+  "catalogTitle": "Alone Against the Flames Jukebox",
+  "trackCount": 19,
+  "tracks": [
+    {
+      "code": "C001",
+      "title": "Alone Against the Flames — Main Theme",
+      "durationMs": 183624,
+      "duration": "3:03",
+      "preview": "audio/C001.mp3"
+    },
+    {
+      "code": "C002",
+      "title": "An Inconvenient Truth",
+      "durationMs": 150024,
+      "duration": "2:30",
+      "preview": "audio/C002.mp3"
+    },
+    {
+      "code": "C003",
+      "title": "Angles That Should Not Exist",
+      "durationMs": 189744,
+      "duration": "3:09",
+      "preview": "audio/C003.mp3"
+    },
+    {
+      "code": "C004",
+      "title": "Footsteps in the Dark",
+      "durationMs": 105144,
+      "duration": "1:45",
+      "preview": "audio/C004.mp3"
+    },
+    {
+      "code": "C005",
+      "title": "Someone is Still Awake",
+      "durationMs": 109224,
+      "duration": "1:49",
+      "preview": "audio/C005.mp3"
+    },
+    {
+      "code": "C006",
+      "title": "Something Beneath the Floorboards",
+      "durationMs": 134040,
+      "duration": "2:14",
+      "preview": "audio/C006.mp3"
+    },
+    {
+      "code": "C007",
+      "title": "The Evidence Doesn't Fit",
+      "durationMs": 147240,
+      "duration": "2:27",
+      "preview": "audio/C007.mp3"
+    },
+    {
+      "code": "C008",
+      "title": "The Fifth Note Falls",
+      "durationMs": 173592,
+      "duration": "2:53",
+      "preview": "audio/C008.mp3"
+    },
+    {
+      "code": "C009",
+      "title": "The Geometry of Madness",
+      "durationMs": 196824,
+      "duration": "3:16",
+      "preview": "audio/C009.mp3"
+    },
+    {
+      "code": "C010",
+      "title": "The Hour Before Midnight",
+      "durationMs": 146952,
+      "duration": "2:26",
+      "preview": "audio/C010.mp3"
+    },
+    {
+      "code": "C011",
+      "title": "The Last Dance at the Black Star",
+      "durationMs": 174384,
+      "duration": "2:54",
+      "preview": "audio/C011.mp3"
+    },
+    {
+      "code": "C012",
+      "title": "The Silence After",
+      "durationMs": 183624,
+      "duration": "3:03",
+      "preview": "audio/C012.mp3"
+    },
+    {
+      "code": "C013",
+      "title": "The Unanswered Question",
+      "durationMs": 164040,
+      "duration": "2:44",
+      "preview": "audio/C013.mp3"
+    },
+    {
+      "code": "C014",
+      "title": "The Weight of Unspoken Things",
+      "durationMs": 182832,
+      "duration": "3:02",
+      "preview": "audio/C014.mp3"
+    },
+    {
+      "code": "C015",
+      "title": "What Remains in the Morning",
+      "durationMs": 177744,
+      "duration": "2:57",
+      "preview": "audio/C015.mp3"
+    },
+    {
+      "code": "C016",
+      "title": "A Perfectly Ordinary Evening",
+      "durationMs": 172344,
+      "duration": "2:52",
+      "preview": "audio/C016.mp3"
+    },
+    {
+      "code": "C017",
+      "title": "A Question of Motive",
+      "durationMs": 182833,
+      "duration": "3:02",
+      "preview": "audio/C017.mp3"
+    },
+    {
+      "code": "C018",
+      "title": "A Sound Without a Source",
+      "durationMs": 145152,
+      "duration": "2:25",
+      "preview": "audio/C018.mp3"
+    },
+    {
+      "code": "C019",
+      "title": "Alone Against the Flames — End Titles",
+      "durationMs": 159984,
+      "duration": "2:39",
+      "preview": "audio/C019.mp3"
+    }
+  ]
+}
