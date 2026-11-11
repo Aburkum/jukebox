@@ -169,6 +169,19 @@
     }
     .show-card:hover .visual { scale: 1.025; }
 
+    .radio-banner {
+      display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap;
+      margin-top: 22px; padding: 22px 26px; text-decoration: none;
+      border: 1px solid var(--line);
+      background: linear-gradient(100deg, rgba(90,58,31,.55), rgba(24,21,17,.92) 60%);
+      box-shadow: 0 20px 60px rgba(0,0,0,.4);
+      transition: border-color .2s ease, transform .2s ease;
+    }
+    .radio-banner:hover, .radio-banner:focus-visible { border-color: rgba(210,168,79,.8); transform: translateY(-2px); outline: none; }
+    .radio-banner h2 { margin: 4px 0 2px; font-family: "Cinzel", serif; font-size: 24px; letter-spacing: .06em; }
+    .radio-banner p { margin: 0; color: var(--muted); font-size: 18px; }
+    .radio-banner .card-kicker { font-size: 12px; color: var(--gold); }
+
     .drylands .visual {
       background-image:
         linear-gradient(to top, rgba(12,9,7,.97) 4%, rgba(12,9,7,.45) 58%, rgba(12,9,7,.14)),
@@ -414,6 +427,15 @@
   </div>
 </a>
 </section>
+
+    <a class="radio-banner" href="drylands-radio/">
+      <div>
+        <p class="card-kicker">Colossus of the Drylands · Live mood jukebox</p>
+        <h2>Drylands Radio</h2>
+        <p>Shuffle the soundtrack straight from Suno and switch moods in real time.</p>
+      </div>
+      <span class="button">Tune in</span>
+    </a>
 
     <section class="how-it-works" aria-label="How to request a song">
       <div class="steps">
