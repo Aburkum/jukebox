@@ -1,0 +1,1093 @@
+{
+ "moods": [
+  "Frontier Town",
+  "Aftermath & Reflection",
+  "Mystery & Tension",
+  "Colossus",
+  "Ambient Exploration",
+  "Action & Pursuit",
+  "Combat"
+ ],
+ "tracks": [
+  {
+   "id": "3e46b9ae-74c5-444c-b027-6693bcba90af",
+   "title": "The Balad of Wyllin's Gulch",
+   "duration": "4:30",
+   "seconds": 270,
+   "style": "Frontier folk ballad, dust-bowl Americana, female or soft male weary lead",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/3e46b9ae-74c5-444c-b027-6693bcba90af"
+  },
+  {
+   "id": "b5928a7b-b730-4c8a-a256-5ecca8d74bd5",
+   "title": "The Balad of Wyllin's Gulch",
+   "duration": "3:59",
+   "seconds": 239,
+   "style": "Frontier folk ballad, slow 6/8 sway, female or soft male weary lead in minor key, fingerpicked acoustic",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/b5928a7b-b730-4c8a-a256-5ecca8d74bd5"
+  },
+  {
+   "id": "0cac6a63-c4ad-4525-a1b0-b8b21c6f8d7a",
+   "title": "The Nucleus Wakes",
+   "duration": "2:44",
+   "seconds": 164,
+   "style": "Instrumental dark cinematic ambient, deep sub-bass pulse, metallic resonance",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/0cac6a63-c4ad-4525-a1b0-b8b21c6f8d7a"
+  },
+  {
+   "id": "17d8c6f2-1ae4-40c2-99c7-4246882718f8",
+   "title": "The Nucleus Wakes",
+   "duration": "2:14",
+   "seconds": 134,
+   "style": "Instrumental dark cinematic ambient, deep sub-bass pulse, metallic resonance",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/17d8c6f2-1ae4-40c2-99c7-4246882718f8"
+  },
+  {
+   "id": "1ecee276-f65c-4493-b123-caaac0018681",
+   "title": "The Quiet Before",
+   "duration": "2:14",
+   "seconds": 134,
+   "style": "Instrumental sparse acoustic ambient, fingerpicked guitar, soft upright bass, distant piano",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/1ecee276-f65c-4493-b123-caaac0018681"
+  },
+  {
+   "id": "f0590d82-e57e-436e-a2c4-bf71baa063d8",
+   "title": "The Quiet Before",
+   "duration": "2:09",
+   "seconds": 129,
+   "style": "Instrumental sparse acoustic ambient, fingerpicked guitar, soft upright bass, distant piano",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/f0590d82-e57e-436e-a2c4-bf71baa063d8"
+  },
+  {
+   "id": "a49efadb-5ab0-48aa-9cce-1a27a7a1e99e",
+   "title": "Steel Between Friends",
+   "duration": "2:14",
+   "seconds": 134,
+   "style": "Cinematic western ambient, slow train wheels, distant wind, brushed percussion, sparse acoustic guitar",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Frontier Town"
+   ],
+   "suno": "https://suno.com/song/a49efadb-5ab0-48aa-9cce-1a27a7a1e99e"
+  },
+  {
+   "id": "74ec13d4-ba46-4348-b645-daa1154e3d0e",
+   "title": "Steel Between Friends",
+   "duration": "2:28",
+   "seconds": 148,
+   "style": "Cinematic western ambient, slow train wheels, distant wind, brushed percussion, sparse acoustic guitar",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Frontier Town"
+   ],
+   "suno": "https://suno.com/song/74ec13d4-ba46-4348-b645-daa1154e3d0e"
+  },
+  {
+   "id": "a1aea386-6872-49ab-ba4c-34749d8b36cb",
+   "title": "Eastbound",
+   "duration": "2:40",
+   "seconds": 160,
+   "style": "Cinematic western ambient, slow train wheels, distant wind, brushed percussion, sparse acoustic guitar",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Action & Pursuit"
+   ],
+   "suno": "https://suno.com/song/a1aea386-6872-49ab-ba4c-34749d8b36cb"
+  },
+  {
+   "id": "6f8eaf66-03e8-4f41-8dcf-79ab06a26b76",
+   "title": "Eastbound",
+   "duration": "3:05",
+   "seconds": 185,
+   "style": "Cinematic western ambient, slow train wheels, distant wind, brushed percussion, sparse acoustic guitar",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Action & Pursuit"
+   ],
+   "suno": "https://suno.com/song/6f8eaf66-03e8-4f41-8dcf-79ab06a26b76"
+  },
+  {
+   "id": "76a0f8ea-06ad-4fa0-a3e3-7466192fc73c",
+   "title": "Departure of the Black Train",
+   "duration": "2:55",
+   "seconds": 175,
+   "style": "Instrumental cinematic weird-west score for a steam locomotive departing a hidden desert canyon station",
+   "vocals": false,
+   "moods": [
+    "Action & Pursuit",
+    "Frontier Town"
+   ],
+   "suno": "https://suno.com/song/76a0f8ea-06ad-4fa0-a3e3-7466192fc73c"
+  },
+  {
+   "id": "429f1564-ba21-433f-9f44-7c39cead9a7b",
+   "title": "Departure of the Black Train",
+   "duration": "2:50",
+   "seconds": 170,
+   "style": "Instrumental cinematic weird-west score for a steam locomotive departing a hidden desert canyon station",
+   "vocals": false,
+   "moods": [
+    "Action & Pursuit",
+    "Frontier Town"
+   ],
+   "suno": "https://suno.com/song/429f1564-ba21-433f-9f44-7c39cead9a7b"
+  },
+  {
+   "id": "819446dd-3f07-4413-a3ac-49bbde04c8cb",
+   "title": "Infiltration and Discovery",
+   "duration": "2:02",
+   "seconds": 122,
+   "style": "Instrumental suspenseful weird-west score for sneaking through a secret rail yard at night",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Action & Pursuit"
+   ],
+   "suno": "https://suno.com/song/819446dd-3f07-4413-a3ac-49bbde04c8cb"
+  },
+  {
+   "id": "234d5730-4c10-479d-8c5d-aa4517bc3a9d",
+   "title": "Infiltration and Discovery",
+   "duration": "2:19",
+   "seconds": 139,
+   "style": "Instrumental suspenseful weird-west score for sneaking through a secret rail yard at night",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Action & Pursuit"
+   ],
+   "suno": "https://suno.com/song/234d5730-4c10-479d-8c5d-aa4517bc3a9d"
+  },
+  {
+   "id": "a67e9438-f804-45ef-8dc4-46d3faf94867",
+   "title": "Something Beneath the Stone",
+   "duration": "3:40",
+   "seconds": 220,
+   "style": "Instrumental cinematic horror score, ambient drone, weird-west, for descending into dark Essentia mine tunnels",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Colossus",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/a67e9438-f804-45ef-8dc4-46d3faf94867"
+  },
+  {
+   "id": "dee176bc-ffe4-4bc5-9fb1-a0a06311be34",
+   "title": "Something Beneath the Stone",
+   "duration": "3:19",
+   "seconds": 199,
+   "style": "Instrumental cinematic horror score, ambient drone, weird-west, for descending into dark Essentia mine tunnels",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Colossus",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/dee176bc-ffe4-4bc5-9fb1-a0a06311be34"
+  },
+  {
+   "id": "365f9d3e-6696-436f-bc7a-0655e79c689e",
+   "title": "The Freight Yard",
+   "duration": "3:06",
+   "seconds": 186,
+   "style": "Instrumental industrial dark ambient post-minimalist score for sneaking through an abandoned freight yard",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/365f9d3e-6696-436f-bc7a-0655e79c689e"
+  },
+  {
+   "id": "63e94222-a15f-44f6-9013-4df3c81fcb38",
+   "title": "The Freight Yard",
+   "duration": "4:06",
+   "seconds": 246,
+   "style": "Instrumental industrial dark ambient post-minimalist score for sneaking through an abandoned freight yard",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/63e94222-a15f-44f6-9013-4df3c81fcb38"
+  },
+  {
+   "id": "9c20f912-bb51-48d0-95a5-ac1b58161dde",
+   "title": "Discovering the Station",
+   "duration": "2:18",
+   "seconds": 138,
+   "style": "Instrumental cinematic weird-west score for discovering a hidden station (song page tags: punk rock, post-punk, film score)",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Ambient Exploration",
+    "Action & Pursuit"
+   ],
+   "suno": "https://suno.com/song/9c20f912-bb51-48d0-95a5-ac1b58161dde"
+  },
+  {
+   "id": "cd6577c0-2a91-49c3-81c6-5d426c9bb337",
+   "title": "Discovering the Station",
+   "duration": "2:13",
+   "seconds": 133,
+   "style": "Instrumental cinematic weird-west score for discovering a hidden station",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Ambient Exploration",
+    "Action & Pursuit"
+   ],
+   "suno": "https://suno.com/song/cd6577c0-2a91-49c3-81c6-5d426c9bb337"
+  },
+  {
+   "id": "dc5322f5-0289-43ae-ba75-75f253e3ebc7",
+   "title": "The Hidden Station",
+   "duration": "3:00",
+   "seconds": 180,
+   "style": "Instrumental cinematic weird-west score for discovering the hidden station",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/dc5322f5-0289-43ae-ba75-75f253e3ebc7"
+  },
+  {
+   "id": "653f4169-9fb7-4aca-8b1d-cd872e705307",
+   "title": "The Hidden Station",
+   "duration": "3:20",
+   "seconds": 200,
+   "style": "Instrumental cinematic weird-west score for discovering the hidden station",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/653f4169-9fb7-4aca-8b1d-cd872e705307"
+  },
+  {
+   "id": "c8122d8e-d9f9-48a6-a986-e455cac3ca6c",
+   "title": "Drylands Reprise",
+   "duration": "4:21",
+   "seconds": 261,
+   "style": "Backing track for an epic western battle where magic and gunslinging meet giant monsters and a lone posse stands against the Colossus (cover; large choir, long instrumental intro)",
+   "vocals": true,
+   "moods": [
+    "Combat",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/c8122d8e-d9f9-48a6-a986-e455cac3ca6c"
+  },
+  {
+   "id": "51c46284-e871-4f3a-a21f-7309ad594b5e",
+   "title": "Drylands Reprise",
+   "duration": "4:34",
+   "seconds": 274,
+   "style": "Backing track for an epic western battle where magic and gunslinging meet giant monsters and a lone posse stands against the Colossus (cover; large choir)",
+   "vocals": true,
+   "moods": [
+    "Combat",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/51c46284-e871-4f3a-a21f-7309ad594b5e"
+  },
+  {
+   "id": "80933639-98dc-47a7-a6c2-7a8a918449a5",
+   "title": "Drylands Battl",
+   "duration": "3:30",
+   "seconds": 210,
+   "style": "Backing track for an epic western battle where magic and gunslinging meet giant monsters and a lone posse stands against the Colossus (cover)",
+   "vocals": false,
+   "moods": [
+    "Combat",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/80933639-98dc-47a7-a6c2-7a8a918449a5"
+  },
+  {
+   "id": "b241e0c1-ef82-42d2-bdcf-5e1502c53f0b",
+   "title": "Drylands Battl",
+   "duration": "3:39",
+   "seconds": 219,
+   "style": "Backing track for an epic western battle where magic and gunslinging meet giant monsters and a lone posse stands against the Colossus (cover)",
+   "vocals": false,
+   "moods": [
+    "Combat",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/b241e0c1-ef82-42d2-bdcf-5e1502c53f0b"
+  },
+  {
+   "id": "225cdc82-0273-478a-b80f-daabd8cba06a",
+   "title": "Drylands Battl",
+   "duration": "5:24",
+   "seconds": 324,
+   "style": "Backing track for an epic western battle where magic and gunslinging meet giant monsters and a lone posse stands against the Colossus (cover)",
+   "vocals": false,
+   "moods": [
+    "Combat",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/225cdc82-0273-478a-b80f-daabd8cba06a"
+  },
+  {
+   "id": "861460df-2200-4d24-9ed9-f10fe7706821",
+   "title": "Drylands Battl",
+   "duration": "5:13",
+   "seconds": 313,
+   "style": "Backing track for an epic western battle where magic and gunslinging meet giant monsters and a lone posse stands against the Colossus (cover)",
+   "vocals": false,
+   "moods": [
+    "Combat",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/861460df-2200-4d24-9ed9-f10fe7706821"
+  },
+  {
+   "id": "e18b3fd2-7dc1-4802-8ceb-6fad7cff8273",
+   "title": "The Ground Remembers (choral reprise)",
+   "duration": "2:44",
+   "seconds": 164,
+   "style": "No lead vocals, just the backup choir singing only key phrases",
+   "vocals": true,
+   "moods": [
+    "Mystery & Tension",
+    "Colossus",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/e18b3fd2-7dc1-4802-8ceb-6fad7cff8273"
+  },
+  {
+   "id": "a8eb1a34-97e4-43f2-a518-fbc9bb85527f",
+   "title": "The Ground Remembers (choral reprise)",
+   "duration": "2:38",
+   "seconds": 158,
+   "style": "No lead vocals, just the backup choir singing only key phrases",
+   "vocals": true,
+   "moods": [
+    "Mystery & Tension",
+    "Colossus",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/a8eb1a34-97e4-43f2-a518-fbc9bb85527f"
+  },
+  {
+   "id": "ee6898dd-bb93-4b0e-991e-f92b48338318",
+   "title": "The Ground Remembers (choral)",
+   "duration": "5:15",
+   "seconds": 315,
+   "style": "Male baritone with a large choir, dark western (cover)",
+   "vocals": true,
+   "moods": [
+    "Mystery & Tension",
+    "Colossus",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/ee6898dd-bb93-4b0e-991e-f92b48338318"
+  },
+  {
+   "id": "05188b3f-0c8d-47e7-9623-fe911a016bd3",
+   "title": "The Ground Remembers (choral)",
+   "duration": "5:00",
+   "seconds": 300,
+   "style": "Male baritone with a large choir, dark western (cover)",
+   "vocals": true,
+   "moods": [
+    "Mystery & Tension",
+    "Colossus",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/05188b3f-0c8d-47e7-9623-fe911a016bd3"
+  },
+  {
+   "id": "72dd2a34-64af-41db-b318-fc41a422e26f",
+   "title": "Drylands Vocals",
+   "duration": "6:08",
+   "seconds": 368,
+   "style": "Uploaded audio, male baritone with a large choir, dark western",
+   "vocals": true,
+   "moods": [
+    "Mystery & Tension",
+    "Colossus",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/72dd2a34-64af-41db-b318-fc41a422e26f"
+  },
+  {
+   "id": "22b3670c-b9cb-4544-bdaa-5af0a0f9b9d2",
+   "title": "Riberto's Theme",
+   "duration": "2:28",
+   "seconds": 148,
+   "style": "Warm cinematic western folk instrumental, frogfolk",
+   "vocals": false,
+   "moods": [
+    "Frontier Town",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/22b3670c-b9cb-4544-bdaa-5af0a0f9b9d2"
+  },
+  {
+   "id": "c07191a7-f42c-4c02-a1d9-130f452f0167",
+   "title": "That There Frog",
+   "duration": "2:24",
+   "seconds": 144,
+   "style": "Warm cinematic western folk instrumental, frogfolk",
+   "vocals": false,
+   "moods": [
+    "Frontier Town",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/c07191a7-f42c-4c02-a1d9-130f452f0167"
+  },
+  {
+   "id": "24ce42c3-2be4-4781-a45d-e8b762dbc073",
+   "title": "Flutes in the Desert",
+   "duration": "1:33",
+   "seconds": 93,
+   "style": "Warm cinematic folk ambient instrumental, frogfolk",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Frontier Town"
+   ],
+   "suno": "https://suno.com/song/24ce42c3-2be4-4781-a45d-e8b762dbc073"
+  },
+  {
+   "id": "006dd1b7-a1fc-4387-8061-751eb8097fb6",
+   "title": "Gonna Be All Right",
+   "duration": "2:33",
+   "seconds": 153,
+   "style": "Warm cinematic folk ambient instrumental, frogfolk",
+   "vocals": false,
+   "moods": [
+    "Frontier Town",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/006dd1b7-a1fc-4387-8061-751eb8097fb6"
+  },
+  {
+   "id": "02b69c09-7d49-4cb0-9fde-49046b8bcfec",
+   "title": "Silas's Theme",
+   "duration": "3:15",
+   "seconds": 195,
+   "style": "Deeply spiritual ambient instrumental, seeker, ancient forgotten god",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/02b69c09-7d49-4cb0-9fde-49046b8bcfec"
+  },
+  {
+   "id": "13c1c052-2630-4cf6-a971-6ba8c86a0b39",
+   "title": "Seeker of Shifu",
+   "duration": "3:24",
+   "seconds": 204,
+   "style": "Deeply spiritual ambient instrumental, seeker, ancient forgotten god",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/13c1c052-2630-4cf6-a971-6ba8c86a0b39"
+  },
+  {
+   "id": "2a14b54f-1761-40ca-9fe9-3edbf1e53f02",
+   "title": "Drylands Mystery",
+   "duration": "3:10",
+   "seconds": 190,
+   "style": "Sparse cinematic western ambient instrumental for a wandering gunslinger in a mythic desert frontier",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/2a14b54f-1761-40ca-9fe9-3edbf1e53f02"
+  },
+  {
+   "id": "f3766247-e15b-4f38-962a-117198c02d6b",
+   "title": "Wandering Gunslinger",
+   "duration": "2:54",
+   "seconds": 174,
+   "style": "Sparse cinematic western ambient instrumental for a wandering gunslinger in a mythic desert frontier",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Frontier Town"
+   ],
+   "suno": "https://suno.com/song/f3766247-e15b-4f38-962a-117198c02d6b"
+  },
+  {
+   "id": "fb461673-22a3-42e0-bbf7-eef0b8f6ca69",
+   "title": "The Sharpest Shooter",
+   "duration": "3:17",
+   "seconds": 197,
+   "style": "Sparse cinematic western ambient instrumental for a wandering gunslinger in a mythic desert frontier",
+   "vocals": false,
+   "moods": [
+    "Frontier Town",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/fb461673-22a3-42e0-bbf7-eef0b8f6ca69"
+  },
+  {
+   "id": "4694b45e-c39b-49b9-ba80-5f8012143be6",
+   "title": "Billy's Theme",
+   "duration": "2:58",
+   "seconds": 178,
+   "style": "Sparse cinematic western ambient instrumental for a wandering gunslinger in a mythic desert frontier",
+   "vocals": false,
+   "moods": [
+    "Frontier Town",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/4694b45e-c39b-49b9-ba80-5f8012143be6"
+  },
+  {
+   "id": "d7a99e90-0393-4ceb-830c-f073030d6a93",
+   "title": "Seeking the Master",
+   "duration": "4:04",
+   "seconds": 244,
+   "style": "Mystical ambient instrumental, Shifu Zhang",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/d7a99e90-0393-4ceb-830c-f073030d6a93"
+  },
+  {
+   "id": "33ae1327-e0ae-4a7e-accb-566d1c30edc1",
+   "title": "Shifu's Realm",
+   "duration": "3:34",
+   "seconds": 214,
+   "style": "Mystical ambient instrumental, Shifu Zhang",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/33ae1327-e0ae-4a7e-accb-566d1c30edc1"
+  },
+  {
+   "id": "b623f082-5caa-4555-97f0-e687d303ac35",
+   "title": "Where am I?",
+   "duration": "3:55",
+   "seconds": 235,
+   "style": "Ethereal dark ambient instrumental, The Space Between",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/b623f082-5caa-4555-97f0-e687d303ac35"
+  },
+  {
+   "id": "3f98bc29-32d7-4fa6-98b8-b48765d52fc8",
+   "title": "The Space Between",
+   "duration": "4:25",
+   "seconds": 265,
+   "style": "Ethereal dark ambient instrumental, The Space Between",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/3f98bc29-32d7-4fa6-98b8-b48765d52fc8"
+  },
+  {
+   "id": "5b5851d0-679a-49a1-8644-cb98e7aee5ae",
+   "title": "Revelation",
+   "duration": "4:40",
+   "seconds": 280,
+   "style": "Ancient mythic ambient instrumental, discovering forgotten divine truths",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Colossus",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/5b5851d0-679a-49a1-8644-cb98e7aee5ae"
+  },
+  {
+   "id": "c3c5efaa-2cce-42b9-acac-0a850829430c",
+   "title": "Epiphany",
+   "duration": "4:43",
+   "seconds": 283,
+   "style": "Ancient mythic ambient instrumental, discovering forgotten divine truths",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Colossus",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/c3c5efaa-2cce-42b9-acac-0a850829430c"
+  },
+  {
+   "id": "2526af50-66ae-4b15-adbd-6fe3a7048c0d",
+   "title": "Ride on Slow",
+   "duration": "4:55",
+   "seconds": 295,
+   "style": "Weary dark western folk ballad, sung by a lone traveler",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/2526af50-66ae-4b15-adbd-6fe3a7048c0d"
+  },
+  {
+   "id": "409f9f3a-71b3-403a-9d89-0c6d46931928",
+   "title": "Ride on Slow",
+   "duration": "4:33",
+   "seconds": 273,
+   "style": "Weary dark western folk ballad, sung by a lone traveler",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/409f9f3a-71b3-403a-9d89-0c6d46931928"
+  },
+  {
+   "id": "e945b2b0-bb85-448c-88ee-6caf1f8197ec",
+   "title": "Campfire Ambience",
+   "duration": "2:30",
+   "seconds": 150,
+   "style": "Quiet frontier fantasy instrumental, downtime and travel pauses",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/e945b2b0-bb85-448c-88ee-6caf1f8197ec"
+  },
+  {
+   "id": "e374c480-3962-429a-8ad8-945cad80d0cc",
+   "title": "Campfire Ambience",
+   "duration": "2:45",
+   "seconds": 165,
+   "style": "Quiet frontier fantasy instrumental, downtime and travel pauses",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/e374c480-3962-429a-8ad8-945cad80d0cc"
+  },
+  {
+   "id": "195e44ff-5339-454a-8666-6869c9f4a742",
+   "title": "Downtime Ambience",
+   "duration": "3:09",
+   "seconds": 189,
+   "style": "Melancholy cinematic western folk instrumental, quiet human moments",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/195e44ff-5339-454a-8666-6869c9f4a742"
+  },
+  {
+   "id": "3b6e431d-c7f1-4030-916d-2315eec99984",
+   "title": "Downtime Ambience",
+   "duration": "2:43",
+   "seconds": 163,
+   "style": "Melancholy cinematic western folk instrumental, quiet human moments",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/3b6e431d-c7f1-4030-916d-2315eec99984"
+  },
+  {
+   "id": "21033844-f82a-4697-b905-29b5989b904a",
+   "title": "Mine exploration",
+   "duration": "3:33",
+   "seconds": 213,
+   "style": "Dark industrial fantasy ambient instrumental, exploring a massive underground essentia mine",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Ambient Exploration",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/21033844-f82a-4697-b905-29b5989b904a"
+  },
+  {
+   "id": "7da6a81b-1995-430b-a34e-d9bb6cb4d2c0",
+   "title": "Mine exploration",
+   "duration": "3:20",
+   "seconds": 200,
+   "style": "Dark industrial fantasy ambient instrumental, exploring a massive underground essentia mine",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Ambient Exploration",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/7da6a81b-1995-430b-a34e-d9bb6cb4d2c0"
+  },
+  {
+   "id": "7f0edfc7-38c7-4af3-bdfb-d3b64c09c013",
+   "title": "We Ride",
+   "duration": "4:10",
+   "seconds": 250,
+   "style": "Dark cinematic western ballad, sung by a weary traveler",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Action & Pursuit"
+   ],
+   "suno": "https://suno.com/song/7f0edfc7-38c7-4af3-bdfb-d3b64c09c013"
+  },
+  {
+   "id": "377ab9f7-d86e-4798-9ea1-cdbddc8167d8",
+   "title": "We Ride",
+   "duration": "4:30",
+   "seconds": 270,
+   "style": "Dark cinematic western ballad, sung by a weary traveler",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Action & Pursuit"
+   ],
+   "suno": "https://suno.com/song/377ab9f7-d86e-4798-9ea1-cdbddc8167d8"
+  },
+  {
+   "id": "6966891c-2b64-42a5-8dde-38abfb72b5f3",
+   "title": "Drylands Exploraton",
+   "duration": "3:30",
+   "seconds": 210,
+   "style": "Cinematic dark western exploration instrumental",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Frontier Town"
+   ],
+   "suno": "https://suno.com/song/6966891c-2b64-42a5-8dde-38abfb72b5f3"
+  },
+  {
+   "id": "9b6c2802-b5c1-4421-a3f9-9dca4d0eed54",
+   "title": "Drylands Exploraton",
+   "duration": "3:32",
+   "seconds": 212,
+   "style": "Cinematic dark western exploration instrumental",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Frontier Town"
+   ],
+   "suno": "https://suno.com/song/9b6c2802-b5c1-4421-a3f9-9dca4d0eed54"
+  },
+  {
+   "id": "3bf107d5-a9fe-4abd-aa1e-04f8c56f7e11",
+   "title": "Mesa Essentia",
+   "duration": "1:36",
+   "seconds": 96,
+   "style": "Cinematic dark western exploration instrumental, exploring massive abandoned essentia mines (EXTEND 1)",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/3bf107d5-a9fe-4abd-aa1e-04f8c56f7e11"
+  },
+  {
+   "id": "a729a2e4-bb63-4c94-bcc9-0736862a755a",
+   "title": "Mesa Essentia",
+   "duration": "1:16",
+   "seconds": 76,
+   "style": "Cinematic dark western exploration instrumental, exploring massive abandoned essentia mines (EXTEND 1)",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/a729a2e4-bb63-4c94-bcc9-0736862a755a"
+  },
+  {
+   "id": "1bc2cf2e-200e-4e82-92dc-836761a6f184",
+   "title": "Occasional Skittering Spider Legs With A Mystical Crystal Hum Underneath Over...",
+   "duration": "0:12",
+   "seconds": 12,
+   "style": "Sound effect: occasional skittering spider legs with a mystical crystal hum underneath, over a deep background (title truncated in the list)",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/1bc2cf2e-200e-4e82-92dc-836761a6f184"
+  },
+  {
+   "id": "45ca38ee-e9d5-486d-b1ab-2cf43707880d",
+   "title": "Occasional Skittering Spider Legs With A Mystical Crystal Hum Underneath Over...",
+   "duration": "0:14",
+   "seconds": 14,
+   "style": "Sound effect: occasional skittering spider legs with a mystical crystal hum underneath, over a deep background (title truncated in the list)",
+   "vocals": false,
+   "moods": [
+    "Mystery & Tension",
+    "Ambient Exploration"
+   ],
+   "suno": "https://suno.com/song/45ca38ee-e9d5-486d-b1ab-2cf43707880d"
+  },
+  {
+   "id": "bdb80a44-8d58-43f2-af36-9fe23a4bddd7",
+   "title": "Mesa Essentia",
+   "duration": "1:26",
+   "seconds": 86,
+   "style": "Dark fantasy western instrumental for a massive freight elevator descending into an essentia mine (EXTEND 1)",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/bdb80a44-8d58-43f2-af36-9fe23a4bddd7"
+  },
+  {
+   "id": "5ffc9daa-0128-475a-b37a-3aeab56d21ce",
+   "title": "Mesa Essentia",
+   "duration": "1:00",
+   "seconds": 60,
+   "style": "Dark fantasy western instrumental for a massive freight elevator descending into an essentia mine (EXTEND 1)",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/5ffc9daa-0128-475a-b37a-3aeab56d21ce"
+  },
+  {
+   "id": "7585dce1-9090-4d72-8147-362f0e419fe6",
+   "title": "Mesa Essentia",
+   "duration": "0:52",
+   "seconds": 52,
+   "style": "Dark fantasy western instrumental for a massive freight elevator descending into an essentia mine (EXTEND 1)",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/7585dce1-9090-4d72-8147-362f0e419fe6"
+  },
+  {
+   "id": "0aa5d02c-6463-455f-a5f5-9ee721e33eaa",
+   "title": "Mesa Essentia",
+   "duration": "0:43",
+   "seconds": 43,
+   "style": "Dark fantasy western instrumental for a massive freight elevator descending into an essentia mine (EXTEND 1)",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/0aa5d02c-6463-455f-a5f5-9ee721e33eaa"
+  },
+  {
+   "id": "a60044bc-c898-4df7-bc73-897c0f385d2f",
+   "title": "Mesa Essentia",
+   "duration": "3:04",
+   "seconds": 184,
+   "style": "Dark fantasy western instrumental for a massive freight elevator descending into an essentia mine",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/a60044bc-c898-4df7-bc73-897c0f385d2f"
+  },
+  {
+   "id": "0a308bc7-e4f8-41fe-91c0-64a455967680",
+   "title": "Mesa Essentia",
+   "duration": "3:29",
+   "seconds": 209,
+   "style": "Dark fantasy western instrumental for a massive freight elevator descending into an essentia mine",
+   "vocals": false,
+   "moods": [
+    "Ambient Exploration",
+    "Mystery & Tension",
+    "Colossus"
+   ],
+   "suno": "https://suno.com/song/0a308bc7-e4f8-41fe-91c0-64a455967680"
+  },
+  {
+   "id": "7c1166a1-af7f-4d4c-b95f-dfb7eda88e35",
+   "title": "What the Ground Gives Up",
+   "duration": "5:26",
+   "seconds": 326,
+   "style": "Slow smoky frontier jazz ballad, saloon chanteuse",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Aftermath & Reflection",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/7c1166a1-af7f-4d4c-b95f-dfb7eda88e35"
+  },
+  {
+   "id": "7f3e8e35-c7eb-491d-beba-e09a5b675039",
+   "title": "What the Ground Gives Up",
+   "duration": "3:58",
+   "seconds": 238,
+   "style": "Slow smoky frontier jazz ballad, saloon chanteuse",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Aftermath & Reflection",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/7f3e8e35-c7eb-491d-beba-e09a5b675039"
+  },
+  {
+   "id": "300c2009-4eb6-417f-9efd-4d100b6a3b27",
+   "title": "When the Lift Came Down",
+   "duration": "4:06",
+   "seconds": 246,
+   "style": "Upbeat fantasy western folk anthem, celebratory but gritty, acoustic guitar, stomping drums",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/300c2009-4eb6-417f-9efd-4d100b6a3b27"
+  },
+  {
+   "id": "2f434085-f8ed-43d3-8700-323dcccc28e0",
+   "title": "When the Lift Came Down",
+   "duration": "3:38",
+   "seconds": 218,
+   "style": "Upbeat fantasy western folk anthem, celebratory but gritty, acoustic guitar, stomping drums",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/2f434085-f8ed-43d3-8700-323dcccc28e0"
+  },
+  {
+   "id": "485103b5-7319-4f73-a50c-404092e80428",
+   "title": "Kick the Dust",
+   "duration": "3:49",
+   "seconds": 229,
+   "style": "Upbeat fantasy western combat anthem, driving rhythm, gritty outlaw energy, fast acoustic guitar, stomping drums, hand claps, distorted fiddle, shouted gang vocals",
+   "vocals": true,
+   "moods": [
+    "Combat",
+    "Frontier Town"
+   ],
+   "suno": "https://suno.com/song/485103b5-7319-4f73-a50c-404092e80428"
+  },
+  {
+   "id": "9417be85-16d4-4c6d-8c9c-2acbb28044a6",
+   "title": "Kick the Dust",
+   "duration": "3:32",
+   "seconds": 212,
+   "style": "Upbeat fantasy western combat anthem, driving rhythm, gritty outlaw energy, fast acoustic guitar, stomping drums, hand claps, distorted fiddle, shouted gang vocals",
+   "vocals": true,
+   "moods": [
+    "Combat",
+    "Frontier Town"
+   ],
+   "suno": "https://suno.com/song/9417be85-16d4-4c6d-8c9c-2acbb28044a6"
+  },
+  {
+   "id": "cb6d3a6b-ab1f-4b15-8f35-a37fb567430b",
+   "title": "Dust Don’t Choose Who Walks It",
+   "duration": "5:46",
+   "seconds": 346,
+   "style": "Cinematic fantasy western, slow build, moody outlaw ballad, gravelly male vocal",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Aftermath & Reflection",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/cb6d3a6b-ab1f-4b15-8f35-a37fb567430b"
+  },
+  {
+   "id": "e2fe4096-69ca-4eed-972d-7e75605a77e5",
+   "title": "Dust Don’t Choose Who Walks It",
+   "duration": "4:00",
+   "seconds": 240,
+   "style": "Cinematic fantasy western, slow build, moody outlaw ballad, gravelly male vocal",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Aftermath & Reflection",
+    "Mystery & Tension"
+   ],
+   "suno": "https://suno.com/song/e2fe4096-69ca-4eed-972d-7e75605a77e5"
+  },
+  {
+   "id": "1afe00c0-e324-4be9-8c70-8301349e938c",
+   "title": "Drylands theme song",
+   "duration": "6:08",
+   "seconds": 368,
+   "style": "Dark fantasy western, cinematic, slow-burn build, dusty outlaw tone, deep male vocal with grit, low acoustic guitar, distant drums, subtle choir, haunting fiddle",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Colossus",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/1afe00c0-e324-4be9-8c70-8301349e938c"
+  },
+  {
+   "id": "871133e0-c5aa-458e-b15a-4551394a2829",
+   "title": "Drylands",
+   "duration": "3:40",
+   "seconds": 220,
+   "style": "Steampunk Western, Dark Americana, Cinematic Folk Rock, Gritty, Slow Build, Epic, Male Vocal, Low Baritone, Atmospheric",
+   "vocals": true,
+   "moods": [
+    "Frontier Town",
+    "Colossus",
+    "Aftermath & Reflection"
+   ],
+   "suno": "https://suno.com/song/871133e0-c5aa-458e-b15a-4551394a2829"
+  }
+ ]
+}
